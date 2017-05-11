@@ -1,1 +1,79 @@
+body {
+	background-image: 
+}
+
+h1 {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 80px;
+}
+
+h2 {
+	font-family: "Comic Sans MS", cursive;
+	position: absolute;
+	top: 130px;
+	left: 605px;
+}
+
+img {
+	position: absolute;
+	top: 200px;
+	left: 500px;
+}
+
+.img1 {
+	position: absolute;
+	top: 10px;
+	left: -55px;
+}
+
+.img2 {
+	position: absolute;
+	top:76px;
+	left: -55px;
+}
+
+.img3 {
+	position: absolute;
+	top: 142px;
+	left: -55px;
+}
+
+.img4 {
+	position: absolute;
+	top: 210px;
+	left: -55px;
+}
+
+h3 {
+	position: absolute;
+	top: 470px;
+	left: 635px;
+	font-family: "Arial Black";
+}
+
+.imgali {
+	position: absolute;
+	top: 340px;
+	left: 100px
+}
+
+.imgmau {
+	position: absolute;
+	top: 340px;
+	left: 200px
+}
+
+.alinom {
+	position: absolute;
+	top: 610px;
+	left: 618px;
+	font-family: "Comic Sans MS";
+}
+
+.maunom {
+	position: absolute;
+	top: 610px;
+	left: 710px;
+	font-family: "Comic Sans MS";
+}
 
